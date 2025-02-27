@@ -2,7 +2,7 @@
 
 Description: To Practice and learn more of the different type of displays and more formulas are needed to be learn/google/used to fullfill the KIP requirements 
 
-Datasets are found on youtube (CREDIT TO: Alex the Analyst): [https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys](https://www.youtube.com/watch?v=Hn9f13uoLAQ&list=PLNr6y7fJuf_f9wCIPQTun4pMosf5e4fFk&index=4)
+Datasets are found on youtube (CREDIT TO: Data Tutorial): [https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys](https://www.youtube.com/watch?v=Hn9f13uoLAQ&list=PLNr6y7fJuf_f9wCIPQTun4pMosf5e4fFk&index=4)
 
 In the folders, there are the following :
 
