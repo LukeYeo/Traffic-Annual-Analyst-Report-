@@ -118,8 +118,6 @@ Month Number = MONTH('Calendar'[Date])
 
 **Yeo Chee En Luke**  
 Statistician & Computer Scientist  
-📧 [Optional: insert email or LinkedIn profile]
-
 ---
 
 ## 🎥 Acknowledgements
